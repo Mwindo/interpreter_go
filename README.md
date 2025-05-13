@@ -1,0 +1,1 @@
+I have slowly been working through [Writing an Interpreter in Code](https://interpreterbook.com/) to learn Go, gain more hands-on experience designing a lexer/parser/evaluator, and review some stuff I half-remember.
