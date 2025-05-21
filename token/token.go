@@ -52,7 +52,12 @@ const (
 	ELSE     = "ELSE"
 	RETURN   = "RETURN"
 
-	STRING = "STRING"
+	STRING   = "STRING"
+	LBRACKET = "["
+	RBRACKET = "]"
+
+	PERIOD = "." // implement object property access ... [1,2].transform(len) etc.
+	COLON  = ":"
 )
 
 type Token struct {
