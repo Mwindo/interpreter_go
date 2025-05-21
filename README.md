@@ -1,0 +1,1 @@
+This was just a repo for working through Thorsten Ball's [Writing an Interpreter in Go]("https://interpreterbook.com/"). I followed along fairly closely (with a few minor renames), although I've added some basic, unused support for emojis and a few other built-ins. I'm hoping to play around with things more now that it's "finished."
